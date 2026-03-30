@@ -1,2 +1,3 @@
 Generación archivo 3 con corrección
 me falto agregar esta linea en el codigo
+esta es mi tercer linea en archivo3
